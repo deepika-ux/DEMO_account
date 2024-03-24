@@ -1,0 +1,7 @@
+Linux basic command
+
+PWD
+ls -la
+cd 
+cp file1 /path/a/file1
+mv file1 /path/a/file1
